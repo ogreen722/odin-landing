@@ -7,3 +7,7 @@ Give credit where due for any images used in the project
 Enjoy the challenge and build some confidence with coding in general.
 
 Deadlift image by Victor Freitas: https://www.pexels.com/photo/person-holding-black-and-silver-steel-barbell-photography-949126/
+Squat image by Leon Ardho: https://www.pexels.com/photo/photo-of-man-lifting-barbell-1552106/
+Bench image by Bruno Bueno: https://www.pexels.com/photo/man-lying-while-doing-barbell-2204196/
+Row Image by Oscar  Machado: https://www.pexels.com/photo/man-lifting-weights-3025027/
+Overhead Press image by Ketut Subiyanto: https://www.pexels.com/photo/muscular-man-lifting-a-barbell-4720785/
