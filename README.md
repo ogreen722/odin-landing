@@ -5,3 +5,5 @@ Use efficient and accurate styling techniques to recreate the webpage seen in th
 Use google when stuck and learn futher techniques through research
 Give credit where due for any images used in the project
 Enjoy the challenge and build some confidence with coding in general.
+
+Deadlift image by Victor Freitas: https://www.pexels.com/photo/person-holding-black-and-silver-steel-barbell-photography-949126/
